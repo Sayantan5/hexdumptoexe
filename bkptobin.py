@@ -1,7 +1,5 @@
 #!/usr/bin/python2
-'''
-desc : This rebuild the .txt dump to a .bin
-'''
+
 import sys
 import re
 import string
